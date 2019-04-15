@@ -11,7 +11,7 @@ Logbook==0.12.5
 pytz==2016.4
 
 # FF: Upgraded numpy because of errors with version 1.11
-numpy==1.14.0
+numpy==1.16.0
 
 # for pandas-datareader
 requests-file==1.4.3
@@ -31,7 +31,7 @@ six==1.11.0
 # For fetching remote data
 requests==2.20.1
 
-Cython==0.27.3
+Cython==0.29.0
 
 # faster OrderedDict
 cyordereddict==1.0.0
@@ -78,7 +78,7 @@ lru-dict==1.1.6
 # For financial risk calculations
 empyrical==0.2.1
 
-tables==3.4.2
+tables==3.4.4
 
 certifi==2018.1.18
 
